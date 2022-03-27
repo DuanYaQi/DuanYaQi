@@ -12,7 +12,7 @@
   &nbsp;&nbsp;💡 &nbsp;I'm undergraduate student (2020-2023)<br/>
   &nbsp;&nbsp;🎓&nbsp;Enrolled at South China University of Technology, Computer Science - Computer Engineering<br/>
   &nbsp;&nbsp;🌱 I’m interested in Deep Learning , Computer Vision , CUDA , TensorRT<br/>
-  &nbsp;&nbsp;🔭&nbsp;Currently learning Deep Learning and working on point cloud upsampling<br/>
+  &nbsp;&nbsp;🔭&nbsp;Currently learning Deep Learning and working on Point Cloud Upsampling<br/>
   &nbsp;&nbsp;📄 &nbsp;Take a look at my [Curriculum Vitae](https://github.com/DuanYaqi/DuanYaqi/blob/main/DUAN_CV.pdf) for more details about me<br/>
   &nbsp;&nbsp;✉️&nbsp;You can send me an email at duanyaqiduanyaqi@gmail.com! I'll try to answer as soon as possible.
 
