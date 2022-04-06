@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-  &nbsp;&nbsp;💡 &nbsp;I'm undergraduate student (2020-2023)<br/>
+  &nbsp;&nbsp;💡 &nbsp;I'm a postgraduate student and pursuing for master degree (2020-2023)<br/>
   &nbsp;&nbsp;🎓&nbsp;Enrolled at South China University of Technology, Computer Science - Computer Engineering<br/>
   &nbsp;&nbsp;🌱 I’m interested in Deep Learning , Computer Vision , CUDA , TensorRT<br/>
   &nbsp;&nbsp;🔭&nbsp;Currently learning Deep Learning and working on Point Cloud Upsampling<br/>
